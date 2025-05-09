@@ -1,6 +1,6 @@
 # 🎓 Student Management System
 
-A **simple and interactive web application** to manage student records, built with **Next.js** and **Firebase Realtime Database**.
+A **web application** for managing student records, built entirely with **Next.js (frontend + backend API routes)** and **Firebase Realtime Database**.
 
 This project allows users to perform CRUD operations (Create, Read, Update, Delete) on student data with real-time updates.
 
@@ -12,18 +12,17 @@ This project allows users to perform CRUD operations (Create, Read, Update, Dele
 - 📝 Edit student information
 - ❌ Delete students
 - 🔍 Search students by name
-- 📈 Real-time database integration
+- 📈 Realtime updates with Firebase
 - 🎨 Clean and responsive user interface
 
 ---
 
 ## ⚙️ Technologies Used
 
-- **Next.js** (frontend & API routes)
-- **React (Hooks)** for UI logic
-- **Firebase Realtime Database** (backend)
-- **CSS-in-JS / inline styling**
-- **Node.js** (via Next.js backend API)
+- **Next.js** (frontend + backend API routes)
+- **React (Hooks)**
+- **Firebase Realtime Database**
+- **CSS-in-JS (inline styles)**
 
 ---
 
@@ -31,11 +30,9 @@ This project allows users to perform CRUD operations (Create, Read, Update, Dele
 
 Here’s a preview of the application:
 
-![Student Management System Screenshot](https://github.com/HaseebAli3/Student-MS-with-Next.js-Firebase/issues/1#issue-3052775324)
+![Student Management System Screenshot](https://private-user-images.githubusercontent.com/145441112/442248819-f63797c4-984c-482d-a382-058cd90275df.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY4MTI5NjIsIm5iZiI6MTc0NjgxMjY2MiwicGF0aCI6Ii8xNDU0NDExMTIvNDQyMjQ4ODE5LWY2Mzc5N2M0LTk4NGMtNDgyZC1hMzgyLTA1OGNkOTAyNzVkZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwOVQxNzQ0MjJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zM2Y0MzA5MDdiMDU2MGY1M2RhMzM5YmM3YjNhNmM2NWE0NDk0NDc0ZDVkYzEwYTM4ZjRmYzY0MjdiODM5ZjcwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.KfW6DrhSfyfS7iA8_XXgi7ENXHgEzKrQvKiFg4kZBjI)
 
-> 📝 **Replace `IMAGE_LINK_HERE` with the URL of your uploaded image, or the relative path if stored locally (e.g. `/public/screenshot.png`).**
 
----
 
 ## 🚀 Getting Started
 
